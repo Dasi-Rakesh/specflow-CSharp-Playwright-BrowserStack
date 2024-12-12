@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MTiwari\\source\\repos\\BrowserStackDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{016AF362-DBBC-47FC-A550-35A422027B86}|BrowserStackDemo\\BrowserStackDemo.csproj|c:\\users\\mtiwari\\source\\repos\\browserstackdemo\\browserstackdemo\\stepdefinitions\\commonstepdef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016AF362-DBBC-47FC-A550-35A422027B86}|BrowserStackDemo\\BrowserStackDemo.csproj|solutionrelative:browserstackdemo\\stepdefinitions\\commonstepdef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016AF362-DBBC-47FC-A550-35A422027B86}|BrowserStackDemo\\BrowserStackDemo.csproj|c:\\users\\mtiwari\\source\\repos\\browserstackdemo\\browserstackdemo\\util\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016AF362-DBBC-47FC-A550-35A422027B86}|BrowserStackDemo\\BrowserStackDemo.csproj|solutionrelative:browserstackdemo\\util\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016AF362-DBBC-47FC-A550-35A422027B86}|BrowserStackDemo\\BrowserStackDemo.csproj|c:\\users\\mtiwari\\source\\repos\\browserstackdemo\\browserstackdemo\\util\\commonstepfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016AF362-DBBC-47FC-A550-35A422027B86}|BrowserStackDemo\\BrowserStackDemo.csproj|solutionrelative:browserstackdemo\\util\\commonstepfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016AF362-DBBC-47FC-A550-35A422027B86}|BrowserStackDemo\\BrowserStackDemo.csproj|c:\\users\\mtiwari\\source\\repos\\browserstackdemo\\browserstackdemo\\pages\\pagemapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016AF362-DBBC-47FC-A550-35A422027B86}|BrowserStackDemo\\BrowserStackDemo.csproj|solutionrelative:browserstackdemo\\pages\\pagemapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016AF362-DBBC-47FC-A550-35A422027B86}|BrowserStackDemo\\BrowserStackDemo.csproj|c:\\users\\mtiwari\\source\\repos\\browserstackdemo\\browserstackdemo\\pages\\loginpageobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016AF362-DBBC-47FC-A550-35A422027B86}|BrowserStackDemo\\BrowserStackDemo.csproj|solutionrelative:browserstackdemo\\pages\\loginpageobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016AF362-DBBC-47FC-A550-35A422027B86}|BrowserStackDemo\\BrowserStackDemo.csproj|c:\\users\\mtiwari\\source\\repos\\browserstackdemo\\browserstackdemo\\hooks\\hooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016AF362-DBBC-47FC-A550-35A422027B86}|BrowserStackDemo\\BrowserStackDemo.csproj|solutionrelative:browserstackdemo\\hooks\\hooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016AF362-DBBC-47FC-A550-35A422027B86}|BrowserStackDemo\\BrowserStackDemo.csproj|c:\\users\\mtiwari\\source\\repos\\browserstackdemo\\browserstackdemo\\features\\demo.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{016AF362-DBBC-47FC-A550-35A422027B86}|BrowserStackDemo\\BrowserStackDemo.csproj|solutionrelative:browserstackdemo\\features\\demo.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016AF362-DBBC-47FC-A550-35A422027B86}|BrowserStackDemo\\BrowserStackDemo.csproj|c:\\users\\mtiwari\\source\\repos\\browserstackdemo\\browserstackdemo\\hooks\\single.conf.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{016AF362-DBBC-47FC-A550-35A422027B86}|BrowserStackDemo\\BrowserStackDemo.csproj|solutionrelative:browserstackdemo\\hooks\\single.conf.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016AF362-DBBC-47FC-A550-35A422027B86}|BrowserStackDemo\\BrowserStackDemo.csproj|c:\\users\\mtiwari\\source\\repos\\browserstackdemo\\browserstackdemo\\browserstackdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{016AF362-DBBC-47FC-A550-35A422027B86}|BrowserStackDemo\\BrowserStackDemo.csproj|solutionrelative:browserstackdemo\\browserstackdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 231,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginPageObject.cs",
+              "DocumentMoniker": "C:\\Users\\MTiwari\\source\\repos\\BrowserStackDemo\\BrowserStackDemo\\Pages\\LoginPageObject.cs",
+              "RelativeDocumentMoniker": "BrowserStackDemo\\Pages\\LoginPageObject.cs",
+              "ToolTip": "C:\\Users\\MTiwari\\source\\repos\\BrowserStackDemo\\BrowserStackDemo\\Pages\\LoginPageObject.cs",
+              "RelativeToolTip": "BrowserStackDemo\\Pages\\LoginPageObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T10:57:17.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "single.conf.json",
+              "DocumentMoniker": "C:\\Users\\MTiwari\\source\\repos\\BrowserStackDemo\\BrowserStackDemo\\Hooks\\single.conf.json",
+              "RelativeDocumentMoniker": "BrowserStackDemo\\Hooks\\single.conf.json",
+              "ToolTip": "C:\\Users\\MTiwari\\source\\repos\\BrowserStackDemo\\BrowserStackDemo\\Hooks\\single.conf.json",
+              "RelativeToolTip": "BrowserStackDemo\\Hooks\\single.conf.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-26T10:40:55.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Demo.feature",
+              "DocumentMoniker": "C:\\Users\\MTiwari\\source\\repos\\BrowserStackDemo\\BrowserStackDemo\\Features\\Demo.feature",
+              "RelativeDocumentMoniker": "BrowserStackDemo\\Features\\Demo.feature",
+              "ToolTip": "C:\\Users\\MTiwari\\source\\repos\\BrowserStackDemo\\BrowserStackDemo\\Features\\Demo.feature",
+              "RelativeToolTip": "BrowserStackDemo\\Features\\Demo.feature",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJXSURBVDhPdVNfSFNhFP/duznd5tRy5N2o1BwoCVJZD0FgulCIXiJqIyiCKIKeequnKGgQ\u002BBSBT770oNtDgv15CKKCGkRgD/WQZCqBcnfnarmcbtO72znfvddNqx/8zs537nd\u002B3znfdybhXxhXfJCwn7x24gb589AxjfOpvPhuwzCMrQIGMaFcInuDyAJOIqNE/EyMIZqaEBELFYG4Ukd2mHidl7WyC8VyCbIkC39NL3CYcROSNIyIqvNCFiETV4nX2Olu7MS78CS6Gzpxse0s3gxM0EmbZ92m0k9YviUQV5rI3iU6drqakFtfQat3D476D\u002BNkIIzVjTXqjvsTcBPv4WlQKNo9DhEbW7278br/MV5qb9H36jR\u002Bln4hmfmAH8WsuauCQ8iX99HvrN3CATaLqypG58bglBzQCkuCX3IzSBczYlMV\u002BHSRYwuISnSjjO/5BZFU0IviAyNU34ZYzy0MKsetiICXjS0wxybka8fD3hgGWo7BX9uMZtcOBOp2wUEVDSn9GOm9LzZbWGBjXm1C6aA7\u002Bko3LXfQacvrOSTDT/BgZhRdDSF0\u002BUI4k7wMj8MDtaBxBr2p0YKoljMriKRmyT7im/62Mg9fTT09tYyP2U94n5lC0K2I9qxkxhgns1M9SEGyz4gHecnPmS0ti0HyON34TU9rIQ3J6ENEm\u002BZFRYAxrvgpMkLeKSJP5nbwfyFC4/zcXG4XYCQCNdTJEeqRp/KCGRRIEa9QMle5ib8FbCQCgzSyL8hbJE7S1juIqmnxrQr/F4gH9lIVPeRNQdZVnFsy41sA/AGfbrS3fsL98AAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-11-26T10:35:25.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\Users\\MTiwari\\source\\repos\\BrowserStackDemo\\BrowserStackDemo\\Util\\Logger.cs",
+              "RelativeDocumentMoniker": "BrowserStackDemo\\Util\\Logger.cs",
+              "ToolTip": "C:\\Users\\MTiwari\\source\\repos\\BrowserStackDemo\\BrowserStackDemo\\Util\\Logger.cs",
+              "RelativeToolTip": "BrowserStackDemo\\Util\\Logger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T10:34:09.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Hooks.cs",
+              "DocumentMoniker": "C:\\Users\\MTiwari\\source\\repos\\BrowserStackDemo\\BrowserStackDemo\\Hooks\\Hooks.cs",
+              "RelativeDocumentMoniker": "BrowserStackDemo\\Hooks\\Hooks.cs",
+              "ToolTip": "C:\\Users\\MTiwari\\source\\repos\\BrowserStackDemo\\BrowserStackDemo\\Hooks\\Hooks.cs",
+              "RelativeToolTip": "BrowserStackDemo\\Hooks\\Hooks.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAArwHIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T10:24:06.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PageMapping.cs",
+              "DocumentMoniker": "C:\\Users\\MTiwari\\source\\repos\\BrowserStackDemo\\BrowserStackDemo\\Pages\\PageMapping.cs",
+              "RelativeDocumentMoniker": "BrowserStackDemo\\Pages\\PageMapping.cs",
+              "ToolTip": "C:\\Users\\MTiwari\\source\\repos\\BrowserStackDemo\\BrowserStackDemo\\Pages\\PageMapping.cs",
+              "RelativeToolTip": "BrowserStackDemo\\Pages\\PageMapping.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T10:23:31.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CommonStepFunction.cs",
+              "DocumentMoniker": "C:\\Users\\MTiwari\\source\\repos\\BrowserStackDemo\\BrowserStackDemo\\Util\\CommonStepFunction.cs",
+              "RelativeDocumentMoniker": "BrowserStackDemo\\Util\\CommonStepFunction.cs",
+              "ToolTip": "C:\\Users\\MTiwari\\source\\repos\\BrowserStackDemo\\BrowserStackDemo\\Util\\CommonStepFunction.cs",
+              "RelativeToolTip": "BrowserStackDemo\\Util\\CommonStepFunction.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T10:17:00.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BrowserStackDemo",
+              "DocumentMoniker": "C:\\Users\\MTiwari\\source\\repos\\BrowserStackDemo\\BrowserStackDemo\\BrowserStackDemo.csproj",
+              "RelativeDocumentMoniker": "BrowserStackDemo\\BrowserStackDemo.csproj",
+              "ToolTip": "C:\\Users\\MTiwari\\source\\repos\\BrowserStackDemo\\BrowserStackDemo\\BrowserStackDemo.csproj",
+              "RelativeToolTip": "BrowserStackDemo\\BrowserStackDemo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-26T10:09:57.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CommonStepDef.cs",
+              "DocumentMoniker": "C:\\Users\\MTiwari\\source\\repos\\BrowserStackDemo\\BrowserStackDemo\\StepDefinitions\\CommonStepDef.cs",
+              "RelativeDocumentMoniker": "BrowserStackDemo\\StepDefinitions\\CommonStepDef.cs",
+              "ToolTip": "C:\\Users\\MTiwari\\source\\repos\\BrowserStackDemo\\BrowserStackDemo\\StepDefinitions\\CommonStepDef.cs",
+              "RelativeToolTip": "BrowserStackDemo\\StepDefinitions\\CommonStepDef.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAAE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T10:09:16.906Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

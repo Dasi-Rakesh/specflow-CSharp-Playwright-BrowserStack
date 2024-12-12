@@ -1,0 +1,23 @@
+﻿{
+    "user": "BROWSERSTACK_USERNAME",
+    "key": "BROWSERSTACK_ACCESS_KEY",
+
+    "capabilities": {
+        "build": "browserstack-09Oct2024_Test3",
+        "name": "BStack Playwright single test",
+        "browserstack.debug": true
+    },
+
+    "environments": {
+        "chrome": {
+            "browser": "chrome"
+        },
+        "chrome-1": {
+            "browser": "chrome"
+        },
+        "chrome-2": {
+            "os": "OS X",
+            "browser": "chrome"
+        }
+    }
+}
